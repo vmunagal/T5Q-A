@@ -12,6 +12,7 @@ Generated:  What did the brother's wife say when she tasted the pumpkin?
 Original :  Why did the brother's wife want to eat more pumpkins?
 
 Answer:  It was the nicest she had ever eaten.
+
 Conext:  Unluckily someone else thought so too, and this was her brother's wife,
 who had heard all about the pumpkin tree, and sent her slave with a
 handful of grain to buy her a pumpkin. At first the girl told him that
@@ -38,6 +39,8 @@ Generated:  Why were the ladies starving?
 Original :  Why were the ladies starving?
 
 Answer:  because the refused to eat the flesh of their won dead husbands
+
+
 Conext:  Jack next took a great bunch of keys from the pocket of Blunderbore,
 and went into the castle again. He made a strict search through all
 the rooms, and in one of them found three ladies tied up by the hair
