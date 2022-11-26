@@ -5,7 +5,6 @@ After fine tunning the T5-base model able to achieve bluert score of : 0.67
 
 Below is the generated question from T5-Base.
 
-The record number : 5312
 
 Generated:  What did the brother's wife say when she tasted the pumpkin?
 
@@ -32,7 +31,7 @@ tree, told him that they were all eaten, so he went back empty-handed to
 his mistress.
 
 ****************************************************************************************************
-The record number : 5052
+
 
 Generated:  Why were the ladies starving?
 
