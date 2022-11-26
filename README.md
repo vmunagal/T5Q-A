@@ -6,7 +6,9 @@ After fine tunning the T5-base model able to achieve bluert score of : 0.67
 Below is the generated question from T5-Base.
 
 The record number : 5312
+
 Generated:  What did the brother's wife say when she tasted the pumpkin?
+
 Original :  Why did the brother's wife want to eat more pumpkins?
 
 Answer:  It was the nicest she had ever eaten.
@@ -27,9 +29,12 @@ called another slave (for she was a rich woman) and bade him go and ask
 for another pumpkin. But the girl, who had just been out to look at her
 tree, told him that they were all eaten, so he went back empty-handed to
 his mistress.
+
 ****************************************************************************************************
 The record number : 5052
+
 Generated:  Why were the ladies starving?
+
 Original :  Why were the ladies starving?
 
 Answer:  because the refused to eat the flesh of their won dead husbands
