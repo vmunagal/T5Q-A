@@ -1,4 +1,4 @@
- T5-Base Model for generating questions based on contect & answer .
+ T5-Base Model for generating questions based on context & answer .
 
 After fine tunning the T5-base model able to achieve bluert score of : 0.67
 
